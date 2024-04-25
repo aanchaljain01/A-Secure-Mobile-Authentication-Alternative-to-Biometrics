@@ -2,7 +2,7 @@
 
 ai.lock is a image-based authentication mechanism, alternative to biometrics. ai.lock uses deep neural networks, to extract feature images, PCA and LSH for fast and secure image matching. See our paper in ACSAC'17: "A Secure Mobile Authentication Alternative to Biometrics".
 
-Datasets
+Datasets:-
 Nexus dataset
 Google Image dataset
 Toys dataset
